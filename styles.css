@@ -27,7 +27,7 @@ margin: 0;
 
 h1{
   font-family: 'starwars';
-  font-size: 80px;
+  font-size: 100px;
   text-align: center;
   line-height: 20px;
 }
@@ -106,8 +106,9 @@ header nav a:hover {
 
 
 .logo img {
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
+  padding-left: 100%;
 }
 
 #menu-toggle {
@@ -124,8 +125,8 @@ header nav a:hover {
 
 nav {
   display: flex;
-  gap: 20px;
-  padding-left: 5%;
+  gap: 0px;
+  padding-left: 0%;
 }
 
 nav a {
@@ -133,6 +134,8 @@ nav a {
   font-family: 'varino';
   text-decoration: none;
   font-size: 0.9rem;
+  text-align: center;
+  padding-left: 9%;
 }
 
 nav a:hover {
@@ -1667,7 +1670,19 @@ color: red;
 /* Estilos para tvs */
 
 /* Estilos para notebooks */
-@media (max-width: 1366px) {
+@media (max-width: 1600px) {
+.logo img{
+  padding-left: 5%;
+}
+
+  nav a {
+    color: #ffe81f;
+    font-family: 'varino';
+    text-decoration: none;
+    font-size: 0.9rem;
+    text-align: center;
+    padding-left: 2%;
+  }
 
   #curiosidades{
     height: 80vh;
@@ -1683,7 +1698,7 @@ color: red;
 }
 
 .caption {
-    bottom: 12%;
+    bottom: 10%;
 
 }
 

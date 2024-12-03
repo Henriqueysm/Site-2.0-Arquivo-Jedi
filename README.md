@@ -15,7 +15,7 @@ Você pode acessar o site através deste [link](https://henriqueysm.github.io/Si
 Abaixo estão algumas imagens mostrando o interior do site:
 
 ### Página Inicial
-![Página Inicial](imagens-do-site/1.jpg)
+![Página Inicial](imagensdosite/1.jpg)
 
 ### Curiosidades 
 ![Curiosidades ](./imagens-do-site/2.jpg)

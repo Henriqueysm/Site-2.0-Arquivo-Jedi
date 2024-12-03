@@ -1,6 +1,6 @@
-# Nome do Seu Site
+# ARQUIVO JEDI
 
-Bem-vindo ao **[Arquivo Jedi]**, um projeto focado em trazer o mundo de Star Wars para os fãs com informações incríveis e visuais autênticos do universo da saga.
+Bem-vindo ao **Arquivo Jedi**, um projeto focado em trazer o mundo de Star Wars para os fãs com informações incríveis e visuais autênticos do universo da saga.
 
 ## Visão Geral
 
